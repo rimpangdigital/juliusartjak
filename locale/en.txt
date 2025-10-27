@@ -1,0 +1,35 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_29717743_2464_1BE0_41C1_FAC640671FB5.label = GS__4256
+panorama_2F853A3A_2464_75A3_41B3_BC0211F335BB.label = GS__4257
+panorama_2F981F83_2464_0B60_41B1_4E73A1CBC6D1.label = GS__4258
+panorama_2F9D5580_2464_3F60_419B_7C4235FF9BFC.label = GS__4259
+panorama_2F9D7B78_2464_0BA0_41B0_7C363DE10248.label = GS__4260
+panorama_2F9D017C_2464_17A0_41AA_4C5479F03162.label = GS__4261
+panorama_2F9D3794_2464_1B60_41B6_33D08F092BD1.label = GS__4262
+panorama_2F9DBD97_2464_0F60_41B6_692DF8CB6D7D.label = GS__4264
+panorama_2F9D13A5_2464_FAA1_41B8_289B04EB5595.label = GS__4265
+panorama_2F9D69B2_2464_F6A0_418F_51BFE2010884.label = GS__4266
+panorama_2F9D3FAF_2464_0AA0_41BF_C48E23C19784.label = GS__4267
+panorama_2F9E85A9_2464_1EA1_41BC_CBE21AFBA8DD.label = GS__4269
+
+## Skin
+
+### Button
+Button_35287EEA_2464_0AA0_41A9_D0114B190F5B.label = PANORAMA LIST
+
+### Image
+Image_3529AEEA_2464_0AA0_41BC_BC060DF9BA4F.url = skin/Image_3529AEEA_2464_0AA0_41BC_BC060DF9BA4F_en.png
+
+### Multiline Text
+HTMLText_359E92C9_2464_3AE1_41A2_91B1DF5B50A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.91vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
